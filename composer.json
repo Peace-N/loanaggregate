@@ -1,0 +1,23 @@
+{
+    "name": "peacengara/loanaggregate",
+    "description": "In this Package I calculate aggregate Loans by tuple of Network, Product and Month",
+    "type": "project",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "peacengara\\loanaggregate\\": "app"
+        }
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Peace Ngara",
+            "email": "peacengara@aol.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
