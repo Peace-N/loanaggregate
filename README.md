@@ -10,8 +10,7 @@ http://localhost/loanaggregate/index.php if you are on Localhost.
 The Application has been built on Abstract Factory PHP Design Pattern to encourage Loose Coupling of Classes and Components.
 The choices behind this pattern were to give the next developer of this Framework or App a better understanding and the ability to quickly grasp the used concepts.
 ##### Model View Controller - MVC Architecture
-##### Angular JS
-Have used Angular JS for 2 way Data Binding and communication between client and Server.
+Have used a Model View Controller design method for easy routing and faster access of different requests.
 #### MiddleWare
 To:do
 #### Finally Visit the below URL to Perfom Math
